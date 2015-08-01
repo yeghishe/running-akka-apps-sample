@@ -1,7 +1,7 @@
 import scalariform.formatter.preferences._
 
 name          := "running-akka-apps-sample"
-organization  := "com.github.yeghishe"
+organization  := "io.github.yeghishe"
 version       := "0.0.1"
 scalaVersion  := "2.11.6"
 scalacOptions := Seq("-unchecked", "-feature", "-deprecation", "-encoding", "utf8")
